@@ -15,13 +15,9 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 
 # Define the regular expression patterns for the attributes
-# name_pattern = re.compile(r':0x[a-fA-F0-9]+\\\",\\\"([\w\s\u4e00-\u9fff]+)\\\",null,')
-name_pattern = re.compile(r':0x[a-fA-F0-9]+\\\",\\\"([\w\s\u4e00-\u9fff]+)\\\",null,')
-
-
+name_pattern = re.compile(r':0x[a-fA-F0-9]+\\\",\\\"([\w\s\u4e00-\u9fff-]+)\\\",null,')
 coordinates_pattern = re.compile(r'\[null,null,(-?\d+\.\d+),(-?\d+\.\d+)\]')
-address_pattern = re.compile(r'(?:null,){3}\\"([^"]*São Paulo - SP, \d{5}-\d{3}, Brazil)\\"(?:,null){5,6}')
-
+# address_pattern = re.compile(r'(?:null,){3}\\"([^"]*São Paulo - SP, \d{5}-\d{3}, Brazil)\\"(?:,null){5,6}')
 
 # category_pattern = re.compile(r'\[\\"[A-Za-z]+ [A-Za-z]+\\",\\"[A-Za-z]+\\"\],\\"[A-Za-z]+\\",null,null,null,')
 # hours_pattern = re.compile(r'\[\\\"(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)\\\",\[\\"Open 24 hours\\"\]')
@@ -36,7 +32,7 @@ with open('demofile2.txt', 'r') as file:
 # Extract the points of interest
 name = name_pattern.findall(data)
 coordinates = coordinates_pattern.findall(data)
-address = address_pattern.findall(data)
+# address = address_pattern.findall(data)
 # category = category_pattern.findall(data)
 # hours = hours_pattern.findall(data)
 reviews = reviews_pattern.findall(data)
@@ -54,7 +50,7 @@ for i in range(len(name)):
         lat, lon = coordinates[i]
         ET.SubElement(coords, "latitude").text = lat
         ET.SubElement(coords, "longitude").text = lon
-    ET.SubElement(point_of_interest, "address").text = address[i]
+    # ET.SubElement(point_of_interest, "address").text = address[i]
     # ET.SubElement(point_of_interest, "category").text = category[i]
     # ET.SubElement(point_of_interest, "hours").text = hours[i]
 

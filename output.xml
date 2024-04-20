@@ -6,7 +6,6 @@
             <latitude>-23.5874162</latitude>
             <longitude>-46.6576336</longitude>
         </coordinates>
-        <address>Parque Ibirapuera - Av. Pedro Álvares Cabral - Vila Mariana, São Paulo - SP, 04094-050, Brazil</address>
         <reviews>
             <numberOfReviews>4</numberOfReviews>
         </reviews>
@@ -17,7 +16,6 @@
             <latitude>-23.587416177366944</latitude>
             <longitude>-46.65763362968861</longitude>
         </coordinates>
-        <address>Museum of Art of São Paulo Assis Chateaubriand - Av. Paulista, 1578 - Bela Vista, São Paulo - SP, 01310-200, Brazil</address>
         <reviews>
             <numberOfReviews>1</numberOfReviews>
         </reviews>
@@ -28,7 +26,6 @@
             <latitude>-23.587416177366944</latitude>
             <longitude>-46.65763362968861</longitude>
         </coordinates>
-        <address>Catedral da Sé de São Paulo - Praça da Sé - Sé, São Paulo - SP, 01001-000, Brazil</address>
         <reviews>
             <numberOfReviews>1</numberOfReviews>
         </reviews>
@@ -39,7 +36,6 @@
             <latitude>-23.587416177366944</latitude>
             <longitude>-46.65763362968861</longitude>
         </coordinates>
-        <address>Beco do Batman - R. Medeiros de Albuquerque, 82-154 - Jardim das Bandeiras, São Paulo - SP, 05436-060, Brazil</address>
         <reviews>
             <numberOfReviews>269773</numberOfReviews>
         </reviews>
@@ -50,7 +46,6 @@
             <latitude>-23.587416177366944</latitude>
             <longitude>-46.65763362968861</longitude>
         </coordinates>
-        <address>Mercado Municipal de São Paulo - R. da Cantareira, 306 - Centro Histórico de São Paulo, São Paulo - SP, 01024-900, Brazil</address>
         <reviews>
             <numberOfReviews>2</numberOfReviews>
         </reviews>
@@ -61,7 +56,6 @@
             <latitude>-23.587416177366944</latitude>
             <longitude>-46.65763362968861</longitude>
         </coordinates>
-        <address>Municipal Theatre of São Paulo - Praça Ramos de Azevedo, s/n - República, São Paulo - SP, 01037-010, Brazil</address>
         <reviews>
             <numberOfReviews>102514</numberOfReviews>
         </reviews>
@@ -72,7 +66,6 @@
             <latitude>-23.587416177366944</latitude>
             <longitude>-46.65763362968861</longitude>
         </coordinates>
-        <address>Monument to the Independence of Brazil - Praça do Monumento, s/nº - Ipiranga, São Paulo - SP, 04261-050, Brazil</address>
         <reviews>
             <numberOfReviews>2</numberOfReviews>
         </reviews>
@@ -83,7 +76,6 @@
             <latitude>-23.5874162</latitude>
             <longitude>-46.6576336</longitude>
         </coordinates>
-        <address>Zoológico de São Paulo - Av. Miguel Estefno, 4241 - Água Funda, São Paulo - SP, 04301-905, Brazil</address>
         <reviews>
             <numberOfReviews>2</numberOfReviews>
         </reviews>
@@ -94,7 +86,6 @@
             <latitude>-23.561414</latitude>
             <longitude>-46.6558819</longitude>
         </coordinates>
-        <address>Parque da Independência - Av. Nazaré, s/n - Ipiranga, São Paulo - SP, 04263-200, Brazil</address>
         <reviews>
             <numberOfReviews>2</numberOfReviews>
         </reviews>
@@ -105,31 +96,38 @@
             <latitude>-23.561413986361917</latitude>
             <longitude>-46.65588193545914</longitude>
         </coordinates>
-        <address>Praça Pôr do Sol - Praça Cel. Custódio Fernandes Pinheiro, 334 - Alto de Pinheiros, São Paulo - SP, 05463-090, Brazil</address>
         <reviews>
             <numberOfReviews>187694</numberOfReviews>
         </reviews>
     </point_of_interest>
     <point_of_interest>
-        <name>Museu Afro Brasil</name>
+        <name>Parque Villa-Lobos</name>
         <coordinates>
             <latitude>-23.561413986361917</latitude>
             <longitude>-46.65588193545914</longitude>
         </coordinates>
-        <address>Parque Villa-Lobos - Av. Prof. Fonseca Rodrigues, 2001 - Alto de Pinheiros, São Paulo - SP, 05317-020, Brazil</address>
         <reviews>
             <numberOfReviews>2</numberOfReviews>
         </reviews>
     </point_of_interest>
     <point_of_interest>
-        <name>Museu de Arte Contemporânea da Universidade de São Paulo</name>
+        <name>Museu Afro Brasil</name>
         <coordinates>
             <latitude>-23.5617979</latitude>
             <longitude>-46.6559732</longitude>
         </coordinates>
-        <address>Museu Afro Brasil - Portão 10, Av. Pedro Álvares Cabral, s/n - Vila Mariana, São Paulo - SP, 04094-050, Brazil</address>
         <reviews>
             <numberOfReviews>30121</numberOfReviews>
+        </reviews>
+    </point_of_interest>
+    <point_of_interest>
+        <name>Museu de Arte Contemporânea da Universidade de São Paulo</name>
+        <coordinates>
+            <latitude>-23.561413986361917</latitude>
+            <longitude>-46.65588193545914</longitude>
+        </coordinates>
+        <reviews>
+            <numberOfReviews>7694</numberOfReviews>
         </reviews>
     </point_of_interest>
     <point_of_interest>
@@ -138,9 +136,8 @@
             <latitude>-23.561413986361917</latitude>
             <longitude>-46.65588193545914</longitude>
         </coordinates>
-        <address>Museu de Arte Contemporânea da Universidade de São Paulo - Av. Pedro Álvares Cabral, 1301 - Vila Mariana, São Paulo - SP, 04094-050, Brazil</address>
         <reviews>
-            <numberOfReviews>7694</numberOfReviews>
+            <numberOfReviews>73586</numberOfReviews>
         </reviews>
     </point_of_interest>
     <point_of_interest>
@@ -149,9 +146,8 @@
             <latitude>-23.561413986361917</latitude>
             <longitude>-46.65588193545914</longitude>
         </coordinates>
-        <address>Memorial da América Latina - Av. Mário de Andrade, 664 - Barra Funda, São Paulo - SP, 01156-001, Brazil</address>
         <reviews>
-            <numberOfReviews>73586</numberOfReviews>
+            <numberOfReviews>2</numberOfReviews>
         </reviews>
     </point_of_interest>
     <point_of_interest>
@@ -160,42 +156,38 @@
             <latitude>-23.561413986361917</latitude>
             <longitude>-46.65588193545914</longitude>
         </coordinates>
-        <address>Vinícius de Moraes Square - Av. Giovanni Gronchi, s/n - Morumbi, São Paulo - SP, 05614-140, Brazil</address>
-        <reviews>
-            <numberOfReviews>2</numberOfReviews>
-        </reviews>
-    </point_of_interest>
-    <point_of_interest>
-        <name>Oca</name>
-        <coordinates>
-            <latitude>-23.561413986361917</latitude>
-            <longitude>-46.65588193545914</longitude>
-        </coordinates>
-        <address>Museu Catavento - Avenida Mercúrio, Parque Dom Pedro II, s/n, São Paulo - SP, 03003-060, Brazil</address>
         <reviews>
             <numberOfReviews>47151</numberOfReviews>
         </reviews>
     </point_of_interest>
     <point_of_interest>
-        <name>USP Clock Square</name>
+        <name>Oca</name>
         <coordinates>
             <latitude>-23.5614219</latitude>
             <longitude>-46.6558831</longitude>
         </coordinates>
-        <address>Oca - Av. Pedro Álvares Cabral, S/n - Portão 2 - Moema, São Paulo - SP, 04094-050, Brazil</address>
         <reviews>
             <numberOfReviews>2</numberOfReviews>
         </reviews>
     </point_of_interest>
     <point_of_interest>
-        <name>Museu do Futebol</name>
+        <name>USP Clock Square</name>
         <coordinates>
             <latitude>-23.551280199999997</latitude>
             <longitude>-46.6343427</longitude>
         </coordinates>
-        <address>USP Clock Square - R. do Anfiteatro, R. Cidade Universitária, S/N, São Paulo - SP, 05508-060, Brazil</address>
         <reviews>
             <numberOfReviews>20276</numberOfReviews>
+        </reviews>
+    </point_of_interest>
+    <point_of_interest>
+        <name>Museu do Futebol</name>
+        <coordinates>
+            <latitude>-23.5506715</latitude>
+            <longitude>-46.6340885</longitude>
+        </coordinates>
+        <reviews>
+            <numberOfReviews>2</numberOfReviews>
         </reviews>
     </point_of_interest>
     <point_of_interest>
@@ -204,9 +196,8 @@
             <latitude>-23.5506715</latitude>
             <longitude>-46.6340885</longitude>
         </coordinates>
-        <address>Museu do Futebol - Praça Charles Miller, s/n - Pacaembu, São Paulo - SP, 01234-010, Brazil</address>
         <reviews>
-            <numberOfReviews>2</numberOfReviews>
+            <numberOfReviews>98794</numberOfReviews>
         </reviews>
     </point_of_interest>
 </root>
